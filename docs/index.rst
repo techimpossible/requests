@@ -105,6 +105,7 @@ instructions for getting the most out of Requests.
    user/quickstart
    user/advanced
    user/authentication
+   user/sec
 
 
 The Community Guide
